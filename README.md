@@ -23,7 +23,7 @@ If you want to clone and run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/professor-locator.git](https://github.com/YOUR_USERNAME/professor-locator.git)
+git clone [https://github.com/vivphani/professor-locator.git](https://github.com/vivphani/professor-locator.git)
 cd professor-locator
 
 ```
